@@ -62,3 +62,4 @@ License
 e.com llc
 
 walkthrough video
+https://drive.google.com/file/d/1K6GpL-CZVhTu6y8Bde25PgiBZ448jm2b/view?usp=sharing
